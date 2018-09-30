@@ -1,7 +1,7 @@
 {
   "name": "stoicism",
   "homepage": "http://migueldeguzman.github.io/stoicism",
-  "description": "stoicsm",
+  "description": "stoicism",
   "version": "1.0.0",
   "author": "migueldeguzman <migueldeguzmandev@gmail.com>",
   "dependencies": {
