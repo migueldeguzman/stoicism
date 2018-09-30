@@ -130,7 +130,7 @@ const IndexPage = () => (
 
     	</p>	
 
-    <Link to="/page-2/">More on Stoicsm</Link>
+    <Link to="https://github.com/migueldeguzman/stoicism/build/page-2/index.html">More on Stoicsm</Link>
   </Layout>
 )
 
