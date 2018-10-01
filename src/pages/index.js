@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-
 import Layout from '../components/layout'
 
 const IndexPage = () => (
@@ -8,9 +7,8 @@ const IndexPage = () => (
     <h2>Philosophy in the modern age</h2>
     <p>Welcome! I'm Miguel!</p>
     <p>
-    	If you came accross this page, chances are you found the link from my portfolio out clicked it
-    	out of curiosity. This site captures my reasons for learning philosophy everyday and how 
-    	it may benefit you as well.  
+    	Thank you for taking the time to checkout this project.
+    	This site captures my reasons for learning stoicism everyday and how it may benefit another human being.  
     </p>  
     <p>
     	I hope you find value in stoicism the same way I did.
@@ -28,7 +26,7 @@ const IndexPage = () => (
 			<li><a href='https://people.com/style/kim-kardashian-flaunts-curves-pink-dress-nyc/'>Kim Kardashian Flaunts Curves During NYC Outing with Husband </a></li>
 		</ul>
 		<div>
-				I applaud you for not clicking the above topics. You belong to 1% of the world who could 
+				I applaud you for not clicking the above topics. You belong to the 1% of the world who could 
 				control themselves. But I have another set of questions..<br/><br/>
 			<ul>
 				<li>At work how many choices did you took without thinking about your manager's instructions?</li>
@@ -111,12 +109,12 @@ const IndexPage = () => (
 	</div>    
     <h2>Where to go from here..</h2>
 		<p>
-	    	I stumbled on this philosophy two years ago and have adopted it eversince. 
-	    	It is now a pillar to my ability to build projects, create content 
-	    	and analyze data impartially. It enabled me to learn from my mistakes. 
-	    	It helped me seek what really matters most for me and that is to - unravel my hidden potential
-	    	and use it for the betterment of the world. It may sound too altruistic but nevertheless it
-	    	is the force that binds me now as I look forward to creating more interesting projects like 
+	    	It's been two years stumbled with stoicism two years ago and adopted it in my daily routines. 
+	    	It's a pillar to my ability to build projects, create content 
+	    	and analyze data impartially. It enables me to learn from my mistakes. 
+	    	It helped me seek what really matters most in every situation. 
+	    	Helped me unravel my hidden potential and use it for the betterment of the world.
+	    	It may sound too altruistic but nevertheless it	is the force that binds my body, mind & spirit together now as I look forward to creating more interesting projects like 
 	    	this and share it to the world. 
     	</p>
     	<p>
@@ -127,10 +125,9 @@ const IndexPage = () => (
     		Moving forward, my advice is to read and act. Read everyday and apply what you have learned from the materials you consume. These 
     		lives that the great stoics should not be wasted away. Click the link below for my materials to learn
     		Stoicism. 
-
     	</p>	
 
-    <Link to="/stoicism/build/page-2/index.html">More on Stoicsm</Link>
+    <Link to="/stoicism/public/referrences/index.html">More on Stoicsm</Link>
   </Layout>
 )
 
