@@ -10,7 +10,7 @@ const morePage = () => (
       <ul>
    			<li>
             <a href='https://tim.blog/stoic/'>
-            Stoicism Resources and Recommendations</a> Ahh, Timothy Ferriss the great master of all. 
+            Stoicism Resources and Recommendations.</a> Ahh, Timothy Ferriss the great master of all. 
             This guy introduced me first not only stoicism but to strecthing 
             the posibility of what is humanly possible to achieve. 
             Check out his awesome resources on stoicism and his blog.
@@ -33,7 +33,7 @@ const morePage = () => (
         </li>
         <li>
             <a href='https://tim.blog/2017/07/06/tao-of-seneca/'>
-            Tao of Seneca</a> A life of misfortune turned to a supreme model of ethical foundation. 
+            Tao of Seneca.</a> A life of misfortune turned to a supreme model of ethical foundation. 
             Another great resource.
         </li>
       </ul>
