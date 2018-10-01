@@ -50,7 +50,8 @@ const morePage = () => (
    		</ul>
    	</div>	
 
-    <Link to="/">back</Link>
+    <Link to="/stoicism/public/index.html">back</Link>
+    <Link to="/">back to my profile</Link>
   </Layout>
 )
 
