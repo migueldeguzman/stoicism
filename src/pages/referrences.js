@@ -10,10 +10,10 @@ const morePage = () => (
       <ul>
    			<li>
             <a href='https://tim.blog/stoic/'>
-            Stoicism Resources and Recommendations</a> Ahh, Timothy Ferriss the great master of none. 
-            This guy introduced me first to me not only stoicism but to strecthing 
-            the idea of what is humanly possible to achieve. 
-            Check out his awesome resources on stoicism and blog.
+            Stoicism Resources and Recommendations</a> Ahh, Timothy Ferriss the great master of all. 
+            This guy introduced me first not only stoicism but to strecthing 
+            the posibility of what is humanly possible to achieve. 
+            Check out his awesome resources on stoicism and his blog.
         </li>
         <li>
             <a href='https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K'>
@@ -39,7 +39,7 @@ const morePage = () => (
       </ul>
     </div>
 
-    <Link to="/stoicism/public/index.html">back</Link>
+    <Link to="/stoicism/public/index.html">main</Link><br/>
     <Link to="/">back to my profile</Link>
   </Layout>
 )
