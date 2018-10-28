@@ -107,24 +107,12 @@ const IndexPage = () => (
 	    	world of technology and entering the world of Epictetus!" as he bailed out. <a href='https://en.wikipedia.org/wiki/Epictetus#Philosophy'>More info..</a>	
 	    </p>
 	</div>    
-    <h2>Where to go from here..</h2>
-		<p>
-	    	It's been two years stumbled with stoicism two years ago and adopted it in my daily routines. 
-	    	It's a pillar to my ability to build projects, create content 
-	    	and analyze data impartially. It enables me to learn from my mistakes. 
-	    	It helped me seek what really matters most in every situation. 
-	    	Helped me unravel my hidden potential and use it for the betterment of the world.
-	    	It may sound too altruistic but nevertheless it	is the force that binds my body, mind & spirit together now as I look forward to creating more interesting projects like 
-	    	this and share it to the world. 
-    	</p>
+    <h2>I wish to learn more..</h2>
     	<p>
-    		<b>I wish to learn more where do I go from here Miguel?</b>
-    		<br/><br/>
     		Philosophy is to be applied throughout our lifetime, this holds true for my own experience and the likes of 
     		Marcus, Seneca and Epictetus. We are constantly bombarded with noise and problems of the modern society.  
-    		Moving forward, my advice is to read and act. Read everyday and apply what you have learned from the materials you consume. These 
-    		lives that the great stoics should not be wasted away. Click the link below for my materials to learn
-    		Stoicism. 
+    		Moving forward, my advice is to read and act. Read everyday and apply what you have learned from the materials you consume. The 
+    		lives that the great stoics shared to us should not be wasted away.
     	</p>	
 
     <Link to="/stoicism/public/referrences/index.html">More on Stoicsm</Link>
